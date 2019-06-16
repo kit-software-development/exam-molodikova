@@ -1,0 +1,41 @@
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\bin\Debug\Server.exe.config
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\bin\Debug\Server.exe
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\bin\Debug\Server.pdb
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\bin\Debug\SimpleTCP.dll
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\obj\Debug\Server.formServer.resources
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\obj\Debug\Server.Properties.Resources.resources
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\obj\Debug\Server.csproj.CopyComplete
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\obj\Debug\Server.exe
+D:\3 курс\6 семестр\C#\CryptographyRSA\Server\obj\Debug\Server.pdb
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\bin\Debug\Server.exe
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\bin\Debug\ChatLib.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\bin\Debug\Server.exe.config
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\bin\Debug\Server.pdb
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\bin\Debug\SimpleTCP.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\bin\Debug\ChatLib.pdb
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\obj\Debug\Server.FormServer.resources
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\obj\Debug\Server.exe
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\Server\obj\Debug\Server.pdb
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\bin\Debug\Server.exe.config
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\bin\Debug\Server.exe
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\bin\Debug\Server.pdb
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\bin\Debug\ChatLib.dll
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\bin\Debug\ChatLib.pdb
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.FormServer.resources
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.exe
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.pdb

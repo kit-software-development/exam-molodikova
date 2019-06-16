@@ -1,0 +1,15 @@
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\bin\Debug\ChatLib.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\bin\Debug\ChatLib.pdb
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\bin\Debug\Newtonsoft.Json.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\bin\Debug\Newtonsoft.Json.xml
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\obj\Debug\ChatLib.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\obj\Debug\ChatLib.pdb
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\SharedLib\bin\Debug\ChatLib.dll
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\SharedLib\bin\Debug\ChatLib.pdb
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\SharedLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\SharedLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\SharedLib\obj\Debug\SharedLib.csprojResolveAssemblyReference.cache
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\SharedLib\obj\Debug\SharedLib.csproj.CoreCompileInputs.cache
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\SharedLib\obj\Debug\SharedLib.csproj.CopyComplete
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\SharedLib\obj\Debug\ChatLib.dll
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\SharedLib\obj\Debug\ChatLib.pdb

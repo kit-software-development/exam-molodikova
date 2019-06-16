@@ -1,0 +1,13 @@
+C:\Games\Учёба\3 курс\6 сем\Прога\Чат\ChatLib\bin\Debug\ChatLib.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\Чат\ChatLib\bin\Debug\ChatLib.pdb
+C:\Games\Учёба\3 курс\6 сем\Прога\Чат\ChatLib\bin\Debug\Newtonsoft.Json.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\Чат\ChatLib\bin\Debug\Newtonsoft.Json.xml
+C:\Games\Учёба\3 курс\6 сем\Прога\Чат\ChatLib\obj\Debug\ChatLib.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\Чат\ChatLib\obj\Debug\ChatLib.pdb
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\bin\Debug\ChatLib.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\bin\Debug\ChatLib.pdb
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\bin\Debug\Newtonsoft.Json.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\bin\Debug\Newtonsoft.Json.xml
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\obj\Debug\ChatLib.csprojResolveAssemblyReference.cache
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\obj\Debug\ChatLib.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\SharedLib\obj\Debug\ChatLib.pdb

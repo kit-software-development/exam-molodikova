@@ -1,0 +1,41 @@
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.csprojResolveAssemblyReference.cache
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.Properties.Resources.resources
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.csproj.GenerateResource.cache
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.csproj.CoreCompileInputs.cache
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\bin\Debug\CryptographyRSA.exe.config
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\bin\Debug\CryptographyRSA.exe
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\bin\Debug\CryptographyRSA.pdb
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.exe
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.pdb
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.MainForm.resources
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\bin\Debug\SimpleTCP.dll
+D:\3 курс\6 семестр\C#\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.csproj.CopyComplete
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\bin\Debug\CryptographyRSA.exe.config
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\bin\Debug\CryptographyRSA.exe
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\bin\Debug\CryptographyRSA.pdb
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\bin\Debug\ChatLib.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\bin\Debug\Newtonsoft.Json.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\bin\Debug\SimpleTCP.dll
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\bin\Debug\ChatLib.pdb
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\bin\Debug\Newtonsoft.Json.xml
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.csprojResolveAssemblyReference.cache
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.MainForm.resources
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.Properties.Resources.resources
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.csproj.GenerateResource.Cache
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.exe
+C:\Games\Учёба\3 курс\6 сем\Прога\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.pdb
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\bin\Debug\CryptographyRSA.exe.config
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\bin\Debug\CryptographyRSA.exe
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\bin\Debug\CryptographyRSA.pdb
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\bin\Debug\ChatLib.dll
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\bin\Debug\ChatLib.pdb
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.csprojResolveAssemblyReference.cache
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.MainForm.resources
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.Properties.Resources.resources
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.csproj.GenerateResource.cache
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.csproj.CoreCompileInputs.cache
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.csproj.CopyComplete
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.exe
+C:\Users\molodikova.vg\Downloads\CryptographyRSA\CryptographyRSA\obj\Debug\CryptographyRSA.pdb
