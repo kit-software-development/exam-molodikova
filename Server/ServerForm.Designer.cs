@@ -51,9 +51,9 @@
             // 
             // buttonStart
             // 
-            this.buttonStart.Location = new System.Drawing.Point(569, 28);
+            this.buttonStart.Location = new System.Drawing.Point(570, 20);
             this.buttonStart.Name = "buttonStart";
-            this.buttonStart.Size = new System.Drawing.Size(75, 23);
+            this.buttonStart.Size = new System.Drawing.Size(75, 33);
             this.buttonStart.TabIndex = 1;
             this.buttonStart.Text = "Start";
             this.buttonStart.UseVisualStyleBackColor = true;
@@ -61,9 +61,9 @@
             // 
             // buttonStop
             // 
-            this.buttonStop.Location = new System.Drawing.Point(664, 27);
+            this.buttonStop.Location = new System.Drawing.Point(664, 20);
             this.buttonStop.Name = "buttonStop";
-            this.buttonStop.Size = new System.Drawing.Size(75, 23);
+            this.buttonStop.Size = new System.Drawing.Size(75, 33);
             this.buttonStop.TabIndex = 2;
             this.buttonStop.Text = "Stop";
             this.buttonStop.UseVisualStyleBackColor = true;
@@ -128,7 +128,7 @@
             this.label4.TabIndex = 9;
             this.label4.Text = "textDecrypt";
             // 
-            // formServer
+            // FormServer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -145,7 +145,7 @@
             this.Controls.Add(this.label1);
             this.MaximumSize = new System.Drawing.Size(800, 500);
             this.MinimumSize = new System.Drawing.Size(800, 500);
-            this.Name = "formServer";
+            this.Name = "FormServer";
             this.Text = "Server";
             this.Load += new System.EventHandler(this.FormServer_Load);
             this.ResumeLayout(false);

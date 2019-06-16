@@ -39,3 +39,18 @@ C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.csproj.
 C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.csproj.CopyComplete
 C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.exe
 C:\Users\molodikova.vg\Downloads\CryptographyRSA\Server\obj\Debug\Server.pdb
+D:\3 курс\6 семестр\CryptographyRSA\Server\bin\Debug\Server.exe.config
+D:\3 курс\6 семестр\CryptographyRSA\Server\bin\Debug\Server.exe
+D:\3 курс\6 семестр\CryptographyRSA\Server\bin\Debug\Server.pdb
+D:\3 курс\6 семестр\CryptographyRSA\Server\bin\Debug\ChatLib.dll
+D:\3 курс\6 семестр\CryptographyRSA\Server\bin\Debug\Newtonsoft.Json.dll
+D:\3 курс\6 семестр\CryptographyRSA\Server\bin\Debug\ChatLib.pdb
+D:\3 курс\6 семестр\CryptographyRSA\Server\bin\Debug\Newtonsoft.Json.xml
+D:\3 курс\6 семестр\CryptographyRSA\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\3 курс\6 семестр\CryptographyRSA\Server\obj\Debug\Server.FormServer.resources
+D:\3 курс\6 семестр\CryptographyRSA\Server\obj\Debug\Server.Properties.Resources.resources
+D:\3 курс\6 семестр\CryptographyRSA\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\3 курс\6 семестр\CryptographyRSA\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\3 курс\6 семестр\CryptographyRSA\Server\obj\Debug\Server.csproj.CopyComplete
+D:\3 курс\6 семестр\CryptographyRSA\Server\obj\Debug\Server.exe
+D:\3 курс\6 семестр\CryptographyRSA\Server\obj\Debug\Server.pdb
